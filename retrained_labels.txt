@@ -1,0 +1,6 @@
+61326 scratch mark
+61326 slot damage
+61326 thinning
+61326 wrinkle
+61326 0k back
+61326 ok front
